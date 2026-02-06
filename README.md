@@ -24,7 +24,6 @@ A simple Bash script to display a list of build scripts in a directory using `dm
 
 1.  **Clone the repository (if you are using a Git repository for this script):**
 
-```
   Or, simply copy the openbox-build.sh file to your desired location (e.g., ~/.local/bin/).
 
 2. Make the script executable:
